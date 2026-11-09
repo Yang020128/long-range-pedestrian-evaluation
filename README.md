@@ -23,9 +23,8 @@ The VIRAT and VisDrone-VID datasets, their official annotations, and the detecto
 
 ## Licenses and attribution
 
-**Code:** PolyForm Noncommercial License 1.0.0 — source-available; non-commercial use is permitted, and commercial use requires a separate license. The code is not open source in the OSI sense. See `LICENSE-CODE.txt`.
+**Code:** PolyForm Noncommercial License 1.0.0 — source-available; the code is not open source in the OSI sense. See `LICENSE-CODE.txt`. For uses not permitted by the PolyForm Noncommercial License 1.0.0, please contact yangzb2557230@buaa.edu.cn for separate authorization.
 **Summary and plotting data:** CC BY-NC 4.0. See `LICENSE-DATA.txt`.
 **Attribution:** Please cite the accompanying paper.
-**Permissions beyond these licenses:** yangzb2557230@buaa.edu.cn
 
 The code license applies to `code/*.py` and `figures/*.py`; the data license applies to `results/*.json`, `results/*.csv`, and `figures/*.json`. The licenses do not grant rights to third-party datasets, annotations, models, or weights. The actual license terms govern, including their defined permitted uses.
