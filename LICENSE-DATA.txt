@@ -1,0 +1,8 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Scope: results/*.json, results/*.csv, and figures/*.json.
+Full official legal text: https://creativecommons.org/licenses/by-nc/4.0/legalcode.en
+License page: https://creativecommons.org/licenses/by-nc/4.0/
+Attribution: Please cite the accompanying paper.
+Permissions beyond this license: yangzb2557230@buaa.edu.cn
+
+The official legal text governs. This notice does not grant rights in third-party material. Local review draft; not published.

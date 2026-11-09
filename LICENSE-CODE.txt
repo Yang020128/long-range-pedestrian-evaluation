@@ -1,0 +1,8 @@
+PolyForm Noncommercial License 1.0.0
+Scope: code/*.py and figures/*.py.
+Full official license text: https://polyformproject.org/wp-content/uploads/2020/05/PolyForm-Noncommercial-1.0.0.txt
+Canonical page: https://polyformproject.org/licenses/noncommercial/1.0.0/
+Attribution: Please cite the accompanying paper.
+Permissions beyond this license: yangzb2557230@buaa.edu.cn
+
+The official license text governs. This notice does not grant rights in third-party material. Local review draft; not published.
